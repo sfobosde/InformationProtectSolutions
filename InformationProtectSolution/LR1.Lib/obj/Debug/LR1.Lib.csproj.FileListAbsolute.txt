@@ -1,0 +1,6 @@
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.Lib\bin\Debug\LR1.Lib.dll
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.Lib\bin\Debug\LR1.Lib.pdb
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.Lib\obj\Debug\LR1.Lib.csprojAssemblyReference.cache
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.Lib\obj\Debug\LR1.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.Lib\obj\Debug\LR1.Lib.dll
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.Lib\obj\Debug\LR1.Lib.pdb
