@@ -13,6 +13,8 @@ namespace LR1.Lib
 
 		public string GeneratePassword(string SymbolsCollection, int size)
 		{
+			GeneratedPassword = string.Empty;
+
 			for (int symbolIndex = 0; symbolIndex < size; symbolIndex++)
 			{
 				var symbolPos = randomGenerator.Next(SymbolsCollection.Length);

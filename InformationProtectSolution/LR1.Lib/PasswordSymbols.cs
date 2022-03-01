@@ -66,17 +66,38 @@ namespace LR1.Lib
 		#endregion
 
 		#region Methods
+
+		public void AddSymbolCollestion(string Collcetion)
+		{
+			SymbolsCoolection += Collcetion;
+		}
+		public void AddSymbolCollestion(int AsciiStart, int AsciiStop)
+		{
+			GenerateAlphavet(AsciiStart, AsciiStop);
+		}
+		public void AddSymbolCollestion(char Start, char Stop)
+		{
+			GenerateAlphavet((int)Start, (int)Stop);
+		}
 		/// <summary>
 		/// Alphavet Generating.
 		/// </summary>
-		private void GenerateAlphavet()
+		private void GenerateAlphavet(int AsciiStart, int AsciiStop)
 		{
-			for (int asciiCode = AsciiStart; 
-				AsciiStart <= AsciiStop; 
-				AsciiStart++)
+			for (int asciiCode = AsciiStart;
+				asciiCode <= AsciiStop;
+				asciiCode++)
 			{
 				SymbolsCoolection += (char)asciiCode;
 			}
+		}
+		private void GenerateAlphavet()
+		{
+			GenerateAlphavet(AsciiStart, AsciiStop);
+		}
+		private void GenerateAlphavet(char Start, char Stop)
+		{
+			GenerateAlphavet((int)Start, (int)Stop);
 		}
 		#endregion
 

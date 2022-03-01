@@ -1,0 +1,10 @@
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\bin\Debug\LR1.App.exe.config
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\bin\Debug\LR1.App.exe
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\bin\Debug\LR1.App.pdb
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\bin\Debug\LR1.Lib.dll
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\bin\Debug\LR1.Lib.pdb
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\obj\Debug\LR1.App.csprojAssemblyReference.cache
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\obj\Debug\LR1.App.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\obj\Debug\LR1.App.csproj.CopyComplete
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\obj\Debug\LR1.App.exe
+C:\Users\Мвидео\Desktop\8 семак\ЗИ\Лабы\projects\InformationProtectSolutions\InformationProtectSolution\LR1.App\obj\Debug\LR1.App.pdb
