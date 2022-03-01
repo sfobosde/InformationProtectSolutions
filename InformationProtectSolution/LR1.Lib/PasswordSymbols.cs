@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LR1.Lib
 {
 	/// <summary>
 	/// Generate password symbols.
 	/// </summary>
-	class PasswordSymbols
+	public class PasswordSymbols
 	{
 		#region Properties
 		/// <summary>
@@ -25,7 +21,7 @@ namespace LR1.Lib
 		/// <summary>
 		/// Symbols using in password.
 		/// </summary>
-		private string SymbolsCoolection;
+		public string SymbolsCoolection;
 		#endregion
 
 		#region Constructions
