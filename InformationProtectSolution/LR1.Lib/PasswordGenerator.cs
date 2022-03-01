@@ -5,13 +5,13 @@ namespace LR1.Lib
 	/// <summary>
 	/// Generate Password.
 	/// </summary>
-	class PasswordGenerator
+	public class PasswordGenerator
 	{
 		private Random randomGenerator = new Random();
 
-		public string GeneratedPassword;
+		private string GeneratedPassword;
 
-		public PasswordGenerator(string SymbolsCollection, int size)
+		public string GeneratePassword(string SymbolsCollection, int size)
 		{
 			for (int symbolIndex = 0; symbolIndex < size; symbolIndex++)
 			{
@@ -19,6 +19,8 @@ namespace LR1.Lib
 
 				GeneratedPassword += SymbolsCollection[symbolPos];
 			}
+
+			return GeneratedPassword;
 		}
 	}
 }
