@@ -6,7 +6,7 @@ namespace LR1.App
 	{
 		static void Main()
 		{
-			
+			PasswordSymbols passwordSymbols = new PasswordSymbols();
 		}
 	}
 }
